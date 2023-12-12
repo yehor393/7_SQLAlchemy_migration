@@ -1,0 +1,12 @@
+Generic single-database configuration.
+
+              List of relations
+ Schema |      Name       | Type  |  Owner
+--------+-----------------+-------+----------
+ public | alembic_version | table | postgres
+ public | grades          | table | postgres
+ public | groups          | table | postgres
+ public | students        | table | postgres
+ public | subjects        | table | postgres
+ public | teachers        | table | postgres
+(6 rows)
